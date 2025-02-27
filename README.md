@@ -1,1 +1,1 @@
-# chilli_leaf
+# chilli_leaf_disease_detection
